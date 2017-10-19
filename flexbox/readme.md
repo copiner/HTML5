@@ -17,7 +17,7 @@ flex | align-self | order
 
 一、容器
 
-父容器：flex (缩写)
+父容器
 
 轴向
 
