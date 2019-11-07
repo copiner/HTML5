@@ -37,3 +37,5 @@ window.onload = function(){
   };
 }
 ```
+
+### jquery源码 $.load()实现
